@@ -1,14 +1,13 @@
-# Open Automation humidity sensor   
+## Open Automation wireless temperature sensor board   
 
-![](http://smartcontrol.lt/images/portfolio/S04.jpg)
+![](http://smartcontrol.lt/images/portfolio/S02.jpg)
 
-This is an Arduino UNO compatible device with HIH5031 humidity sensor installed.  
-It uses [Ciseco XRF wireless RF radio UART serial data module][] to communicate with Open Automation Center
+It uses [Ciseco XRF wireless RF radio UART serial data module][] with temperature sensor firmware loaded. It sends temerature values in 1 min. intervals to Open Automation Center. To extend sensor lifetime used A123 LiPOFe4 accumulator.
 
   
-This simple device can measure air humidity up to 3% precision. Also provided option to connect SHARP GP2Y1010AU0F dust sensor to measure the dust concentration in air.
+This simple device can measure air temperature in range -30..+60 up to 0.5% precision. 
   
-Arduino firmware, schematics and board files provided. 
+Schematics and board files provided. 
   
 For more information please visit [openautomation.center](http://openautomation.center)
 
