@@ -7,7 +7,7 @@ Used [Ciseco XRF wireless RF radio UART serial data module][] with [temperature 
   
 This simple device can measure air temperature in range -30..+60 up to 0.5% precision. 
   
-Schematics and board files provided. 
+Schematics and board files provided. Ciseco thermistor firmware can be downloaded from [here](https://github.com/CisecoPlc/XRF-Firmware-downloads).
   
 For more information please visit [openautomation.center](http://openautomation.center)
 
